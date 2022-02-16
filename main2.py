@@ -26,7 +26,6 @@ hours = lambda x: x * 60 * 60
 # )
 
 client = Client(
-    "bot_checker_bot",
     env('user_session_string'),
     api_id=env('api_id'),
     api_hash=env('api_hash')
