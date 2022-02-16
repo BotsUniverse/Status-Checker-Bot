@@ -11,10 +11,10 @@
 
 ## Thanks To
 
-> [Bug Free Brocoli](https://github.com/odysseusmax/bug-free-broccoli)
+> [Bug Free Brocoli](https://github.com/odysseusmax/bug-free-broccoli) <br>
 > [Coded By @Parvat_R](https://t.me/Parvat_R)
 
 ## License
 
 MIT License (MIT)
-> Read It At [
+> Read It At [HERE](https://github.com/BotsUniverse/Status-Checker-Bot/blob/main/LICENSE)
